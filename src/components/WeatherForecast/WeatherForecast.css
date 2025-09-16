@@ -1,0 +1,29 @@
+section {
+  display: flex;
+
+}
+
+span {
+  font-weight: bold;
+}
+
+
+.weather-icon {
+    width: 100px;
+  padding: 10px;
+  text-align: center;
+}
+
+
+.weather-data {
+  flex: 1;
+  padding: 10px;
+  text-align: center;
+}
+
+.weather {
+  border: 1px solid #ccc;
+  flex: 1;
+  padding: 10px;
+  text-align: center;
+}
